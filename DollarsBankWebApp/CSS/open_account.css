@@ -1,0 +1,17 @@
+body {
+    background-color: wheat;
+}
+
+#other-stuff {
+    text-align: center;
+}
+
+#account-header {
+    text-align: center;
+}
+
+#init-depo {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 75px;
+}

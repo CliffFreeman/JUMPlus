@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/icon" href="/images/dollar.ico" />
+    <link rel="stylesheet" href="/CSS/transfer.css">
+    <title>Transfer Money</title>
+</head>
+<body>
+    <div>
+        <div id="transfer-div">
+            <h1>Transfer Money</h1>
+            <a href="portal.html"><button><< Back</button></a><br><br><br>
+            <label>From</label>
+            <select id="fromAccounts"></select><br><br>
+            <label>To</label>
+            <select id="toAccounts"></select><br><br>
+            <label>Amount</label>
+            <input type="number" id="transferAmountField" /><br><br>
+            <button id="proceedWithTransferButton">Proceed</button>
+        </div>
+    </div>
+
+    <script src="/DAO/user_dao.js" type="module"></script>
+</body>
+</html>

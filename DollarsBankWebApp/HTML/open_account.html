@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open Account</title>
+    <link rel="stylesheet" href="/CSS/open_account.css">
+    <link rel="icon" type="image/icon" href="/images/dollar.ico" />
+</head>
+
+
+<body>
+    <div id="page-div">
+        <div id="other-stuff">
+            <h2 id="account-header">OPEN ACCOUNT</h2><br/><br/>
+            <label for="types">Type </label>
+            <select name="types" id="types">
+                <option value="Checking">Checking</option>
+                <option value="Savings">Savings</option>
+            </select>
+            <br/>
+            <label>Initial Deposit</label>
+            <input type="number" id="init-depo" required />
+            <br/>
+            <a href="./portal.html"><button><< Back</button></a>
+            <button id="btnOpenAccountButton">Create</button>
+        </div>
+    </div>
+
+    <script src="/DAO/user_dao.js" type="module"></script>
+</body>
+
+
+</html>

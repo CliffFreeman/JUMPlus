@@ -1,0 +1,11 @@
+body {
+    background-color: wheat;
+}
+
+#transfer-div {
+    text-align: center;
+}
+
+input {
+    width: 70px;
+}

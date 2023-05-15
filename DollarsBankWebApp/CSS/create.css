@@ -1,0 +1,30 @@
+#acct-info {
+    text-align: center;
+    border: 3px solid black;
+    margin-top: 50px;
+}
+
+body {
+    background-color: darkslateblue;
+}
+
+label {
+    color: white;
+}
+
+#info-header {
+    color:whitesmoke;
+    font-size: 24px;
+    border: 2px solid white;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.field {
+    margin-bottom: 20px;
+    width: 100px;
+}
+
+button {
+    margin-bottom: 15px;
+}

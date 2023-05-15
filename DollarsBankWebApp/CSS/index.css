@@ -1,0 +1,21 @@
+body {
+    background-color: green
+}
+
+#welcomelogo {
+    color: white;
+    text-align: center;
+    font-size: 36px;
+}
+
+#DBLogo {
+    text-align: center;
+    border: 3px solid white;
+    margin-top: 100px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+button {
+    margin-bottom: 20px;
+}

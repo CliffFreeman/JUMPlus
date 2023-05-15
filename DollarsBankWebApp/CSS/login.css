@@ -1,0 +1,29 @@
+#login-div {
+    text-align: center;
+    margin-top: 150px;
+    border: 3px solid limegreen;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+body {
+    background-color: darkslateblue;
+}
+
+#login-p {
+    font-size: 30px;
+    color:limegreen;
+}
+
+label {
+    color: white;
+}
+
+input {
+    margin: 10px;
+    width: 100px;
+}
+
+button {
+    margin: 20px;
+}

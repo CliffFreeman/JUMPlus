@@ -1,0 +1,19 @@
+fieldset, legend {
+    all: revert;
+}
+
+fieldset {
+    width: fit-content;
+}
+
+#form-div form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#loginDiv form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

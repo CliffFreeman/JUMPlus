@@ -1,0 +1,76 @@
+body {
+  height: 100%;
+  background-color: darkgrey;
+  background-image: url("https://img.freepik.com/free-psd/living-room-wall-mockup-psd-modern-interior-design_53876-130139.jpg?w=1800&t=st=1684425225~exp=1684425825~hmac=53d79266b644b81626933dd6a6abe6a7db48b35db27ada302062e30f84dba669");
+  background-repeat: no-repeat, repeat;
+}
+
+.btn-lg {
+  margin-top: 15px;
+  margin-left: 15px;
+  height: 75px;
+  background-color: darkslategray;
+  border: 2px solid darkslategray;
+}
+
+.navbar-link {
+  margin: 15px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.navbar-link:hover {
+  color: red;
+}
+
+#homeButton {
+  color: white;
+}
+
+.btn-primary {
+  width: 100px;
+  height: 75px;
+}
+
+#chairs-logo {
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#homeDiv {
+  text-align: center;
+}
+
+#home-header {
+  margin-top: 50px;
+  font-size: 48px;
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#navbar-div {
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.dropdown {
+  float: right;
+  margin: 25px;
+}
+
+.btn-secondary {
+  background-color: darkcyan;
+  border-color: darkcyan;
+}
+
+#cardDiv {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

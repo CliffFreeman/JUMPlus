@@ -1,0 +1,219 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Cliff Freeman",
+      "username": "cfreeman",
+      "password": "password",
+      "orders": [
+        {
+          "id": 100,
+          "time": "May 29, 2023 - 17:9 ",
+          "discount": "Y",
+          "total": "$2024.95"
+        }
+      ],
+      "cart": []
+    },
+    {
+      "id": 2,
+      "name": "Joseph Evans",
+      "username": "jevans",
+      "password": "pass",
+      "orders": [
+        {
+          "id": 102,
+          "time": "May 29, 2023 - 12:30 ",
+          "discount": "N",
+          "total": "$299.99"
+        }
+      ],
+      "cart": []
+    },
+    {
+      "id": 3,
+      "name": "Sean Bryson",
+      "username": "sbryson",
+      "password": "pass",
+      "orders": [],
+      "cart": []
+    }
+  ],
+  "items": [
+    {
+      "item": "Sofa",
+      "id": 1,
+      "price": 849.99,
+      "type": "Living Room",
+      "img": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c29mYXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"
+    },
+    {
+      "item": "Dining Table",
+      "id": 2,
+      "price": 599.99,
+      "type": "Dining Room",
+      "img": "https://images.furnituredealer.net/img/products%2Fsteve_silver%2Fcolor%2Fadrian%20-%201172854226_ad600b%2Bt-b1.jpg"
+    },
+    {
+      "item": "Bed Frame",
+      "id": 3,
+      "price": 699.99,
+      "type": "Bedroom",
+      "img": "https://images-us-prod.cms.dynamics365commerce.ms/cms/api/cncgmclkfv/imageFileData/search?fileName=/Products%2F131680P%20%5E%20%20%5E%20Each%20%5E%20Coffee%20%5E%20Prime_000_001.png&fallback=/Products/131680P_000_001.png,Product-Fallback-Image.png&m=6&q=80&cropfocalregion=true"
+    },
+    {
+      "item": "Desk",
+      "id": 4,
+      "price": 299.99,
+      "type": "Home Office",
+      "img": "https://ashleyfurniture.scene7.com/is/image/AshleyFurniture/H600000292_1?$AFHS-PDP-Zoomed$"
+    },
+    {
+      "item": "TV Stand",
+      "id": 5,
+      "price": 199.99,
+      "type": "Living Room",
+      "img": "https://ashleyfurniture.scene7.com/is/image/AshleyFurniture/W600000091_1?$AFHS-PDP-Zoomed$"
+    },
+    {
+      "item": "Coffee Table",
+      "id": 6,
+      "price": 349.99,
+      "type": "Living Room",
+      "img": "https://www.ikea.com/us/en/images/products/hemnes-coffee-table-black-brown__0735556_pe740002_s5.jpg"
+    },
+    {
+      "item": "Bookshelf",
+      "id": 7,
+      "price": 249.99,
+      "type": "Home Office",
+      "img": "https://ashleyfurniture.scene7.com/is/image/AshleyFurniture/B600000884-SW?$AFHS-PDP-Zoomed$"
+    },
+    {
+      "item": "Wardrobe",
+      "id": 8,
+      "price": 799.99,
+      "type": "Bedroom",
+      "img": "https://ashleyfurniture.scene7.com/is/image/AshleyFurniture/A600076070_2?$AFHS-PDP-Zoomed$"
+    },
+    {
+      "item": "Bar Stool",
+      "id": 9,
+      "price": 99.99,
+      "type": "Kitchen",
+      "img": "https://ashleyfurniture.scene7.com/is/image/AshleyFurniture/D542-124-SW-P1-KO?$AFHS-PDP-Zoomed$"
+    },
+    {
+      "item": "Dresser",
+      "id": 10,
+      "price": 499.99,
+      "type": "Bedroom",
+      "img": "https://cb.scene7.com/is/image/Crate/GiaWalnut5DrawerChestSHF19_1x1/$web_pdp_main_carousel_med$/210323153502/gia-walnut-5-drawer-dresser.jpg"
+    },
+    {
+      "item": "Armchair",
+      "id": 11,
+      "price": 599.99,
+      "type": "Living Room",
+      "img": "https://www.ikea.com/us/en/images/products/flinshult-armchair-beige__1010600_pe828156_s5.jpg"
+    },
+    {
+      "item": "Sideboard",
+      "id": 12,
+      "price": 749.99,
+      "type": "Dining Room",
+      "img": "https://target.scene7.com/is/image/Target/GUEST_ae65fb18-6083-4d55-bc01-ebccc6ca00a6?wid=488&hei=488&fmt=pjpeg"
+    },
+    {
+      "item": "Nightstand",
+      "id": 13,
+      "price": 199.99,
+      "type": "Bedroom",
+      "img": "https://www.livingspaces.com/globalassets/productassets/200000-299999/240000-249999/244000-244999/244000-244099/244099/244099_grey_wood_nightstand_1.jpg?w=1911&h=1288&mode=pad"
+    },
+    {
+      "item": "Office Chair",
+      "id": 14,
+      "price": 199.99,
+      "type": "Home Office",
+      "img": "https://m.media-amazon.com/images/I/61L1shNNUxL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+      "item": "TV Cabinet",
+      "id": 15,
+      "price": 399.99,
+      "type": "Living Room",
+      "img": "https://www.tlkingcabinetmakers.com/images/tv-stands/3073.jpg"
+    },
+    {
+      "item": "Console Table",
+      "id": 16,
+      "price": 299.99,
+      "type": "Entryway",
+      "img": "https://m.media-amazon.com/images/I/81CVnVQZpmL.jpg"
+    },
+    {
+      "item": "Bar Table",
+      "id": 17,
+      "price": 399.99,
+      "type": "Kitchen",
+      "img": "https://www.ikea.com/us/en/images/products/nordviken-nordviken-bar-table-and-4-bar-stools-black-black__0802749_pe768579_s5.jpg?f=s"
+    },
+    {
+      "item": "Rocking Chair",
+      "id": 18,
+      "price": 249.99,
+      "type": "Nursery",
+      "img": "https://secure.img1-cg.wfcdn.com/im/39928926/resize-h600-w600%5Ecompr-r85/1405/14054834/Rocking+Chairs.jpg"
+    },
+    {
+      "item": "Display Cabinet",
+      "id": 19,
+      "price": 799.99,
+      "type": "Living Room",
+      "img": "https://images.thdstatic.com/productImages/780889d9-4136-40d2-9579-2386c225e61e/svn/inspire-cherry-ameriwood-home-bookcases-bookshelves-hd62873-64_600.jpg"
+    },
+    {
+      "item": "Ottoman",
+      "id": 20,
+      "price": 149.99,
+      "type": "Living Room",
+      "img": "https://ashleyfurniture.scene7.com/is/image/AshleyFurniture/1330208-10X8-CROP?$AFHS-PDP-Zoomed$"
+    },
+    {
+      "item": "Shoe Rack",
+      "id": 21,
+      "price": 79.99,
+      "type": "Entryway",
+      "img": "https://ashleyfurniture.scene7.com/is/image/AshleyFurniture/A600006962_1?$AFHS-PDP-Zoomed$"
+    },
+    {
+      "item": "Computer Desk",
+      "id": 22,
+      "price": 349.99,
+      "type": "Home Office",
+      "img": "https://www.martinandziegler.com/sites/default/files/styles/uc_product/public/Fixed%20desks/CR89%20Corner%20Edit%20Desk%20in%20Amber%20Cherry.jpg?itok=qEoq673y"
+    },
+    {
+      "item": "Vanity Table",
+      "id": 23,
+      "price": 449.99,
+      "type": "Bedroom",
+      "img": "https://i5.walmartimages.com/asr/0d0c528a-6047-4da1-a3f4-401666f25e0b.de79688e8227227a132c7a4f94da3d8e.jpeg"
+    },
+    {
+      "item": "Bar Cart",
+      "id": 24,
+      "price": 199.99,
+      "type": "Dining Room",
+      "img": "https://ashleyfurniture.scene7.com/is/image/AshleyFurniture/D600002385_1?$AFHS-PDP-Zoomed$"
+    },
+    {
+      "item": "Accent Chair",
+      "id": 25,
+      "price": 299.99,
+      "type": "Living Room",
+      "img": "https://ashleyfurniture.scene7.com/is/image/AshleyFurniture/A600034852_1?$AFHS-PDP-Zoomed$"
+    }
+  ]
+}
